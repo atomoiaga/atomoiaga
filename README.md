@@ -1,0 +1,3 @@
+I’m a Software Engineer with experience designing and delivering scalable platforms across fintech, healthtech, SaaS, and blockchain. My focus is on building reliable systems that solve complex business challenges while maintaining security, compliance, and performance at scale.
+
+Throughout my experience in startup environments, I’ve taken on diverse roles to meet evolving needs - from architecting backend infrastructure and shaping product features to driving integrations and ensuring regulatory alignment. I thrive on taking ideas from concept to launch, iterating quickly, and striking a balance between innovation and long-term scalability.
