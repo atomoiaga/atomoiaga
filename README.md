@@ -1,1 +1,1 @@
-I’m a Software Engineer with experience in fintech, healthtech, SaaS, and blockchain, specializing in scalable, secure, and compliant systems. In startup environments, I’ve worn multiple hats—architecting backends, shaping products, driving integrations, and ensuring regulatory alignment. I thrive on turning ideas into launches, iterating fast, and balancing innovation with long-term scalability.
+I’m just a homo sapiens exploring life through software, art, and knowledge.
